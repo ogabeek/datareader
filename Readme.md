@@ -1,11 +1,11 @@
-# Hello there, this is my final Python3 assessment
+# Data reader from sys.input
 
-**Made by**: Ogabek1, Ogabek2
+**Made by**: Ogabeek and Ogabek2
 
 This project was created within a Python virtual environment (venv). Below is the recommended project structure:
 
-Download all requrements: 
-```pip install -r requirements.txt```
+<i> Download all requrements: 
+```pip install -r requirements.txt```</i>
 
 
 # Project Structure
@@ -20,5 +20,7 @@ project_folder/
 ├── requirements.txt # List of dependencies
 └── .gitignore       # Git ignore rules
 
+```
 
-I am commiting gitignore file to show files that I've used and ignored 
+<i> I am commiting gitignore file to show files that I've used and ignored </i>
+
